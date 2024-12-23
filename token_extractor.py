@@ -249,9 +249,9 @@ def print_entry(key, value, tab):
 
 
 def main():
-	banner("""       DEVI \n""")
     servers = ["cn", "de", "us", "ru", "tw", "sg", "in", "i2"]
     servers_str = ", ".join(servers)
+    banner("""       DEVI \n""")
     print(" Token Extortion ")
     print("Username (email or user ID):")
     username = input()
