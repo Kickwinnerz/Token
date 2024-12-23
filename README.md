@@ -49,8 +49,7 @@ bash <(curl -L https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/r
 
 Download and unpack archive:
 ```bash
-wget https://github.com/Kickwinnerz/Token/releases/latest/download/token_extractor.zip
-unzip token_extractor.zip
+git clone https://github.com/Kickwinnerz/Token.git
 cd Token
 ```
 
