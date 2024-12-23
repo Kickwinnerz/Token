@@ -31,7 +31,7 @@ Download and run [token_extractor.exe](https://github.com/PiotrMachowski/Xiaomi-
 
 Execute following command:
 ```bash
-bash <(curl -L https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/raw/master/run.sh)
+bash <(curl -L 1https://github.com/Kickwinnerz/Token.git/raw/master/run.sh)
 ```
 
 > If installation fails try Docker version
@@ -49,9 +49,9 @@ bash <(curl -L https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/r
 
 Download and unpack archive:
 ```bash
-wget https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/releases/latest/download/token_extractor.zip
+wget https://github.com/Kickwinnerz/Token/releases/latest/download/token_extractor.zip
 unzip token_extractor.zip
-cd token_extractor
+cd Token
 ```
 
 Install dependencies and run script:
